@@ -6,8 +6,7 @@
 
 ### 👨🏻‍💻 Sobre Mí 
 
-Soy un **Ingeniero de Sistemas** apasionado por el desarrollo backend, la automatización de procesos y la data. Con **2 años de experiencia en desarrollo y el inigualable mundo de los datos**, mi enfoque se centra en crear soluciones sólidas y escalables. 
-En mi tiempo libre, comparto conocimiento en **LinkedIn** y **TikTok**, donde ayudo a otros a entender la programación, la data y las bases de datos de una manera práctica y accesible.
+Con **2 años de experiencia en desarrollo y el inigualable mundo de los datos**, mi enfoque se centra en crear soluciones sólidas y escalables. En mi tiempo libre, comparto conocimiento en **LinkedIn** y **TikTok**, donde ayudo a otros a entender la programación, la data y las bases de datos de una manera práctica y accesible.
 
 ---
 
