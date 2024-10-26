@@ -11,16 +11,6 @@ En mi tiempo libre, comparto conocimiento en **LinkedIn** y **TikTok**, donde ay
 
 ---
 
-### 🛠️ Áreas de Especialización
-
-- **Backend**: .NET, C#, PHP, Django, Flask
-- **Frontend Basics**: Angular, Bootstrap, ASP.NET Web Forms
-- **Data y Bases de Datos**: Entorno SQL, Big Data, análisis de datos, modelado y optimización de bases de datos
-- **Automatización de Procesos**: Python, Selenium
-- **API & Servicios Web**: Creación y consumo de APIs REST, servicios SOAP, autenticación y consumo de APIs externas
-
----
-
 ### 📢 Encuéntrame en Redes
 
 - 💼 [LinkedIn](https://www.linkedin.com/in/andresochoacm/) - Conecta conmigo para contenido sobre tecnología, desarrollo y bases de datos, y descubre cómo puedo aportar a tu equipo.
