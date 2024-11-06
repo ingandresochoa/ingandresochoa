@@ -13,7 +13,7 @@ Con **2 años de experiencia en desarrollo y el inigualable mundo de los datos**
 ### 📢 Encuéntrame en Redes
 
 - 💼 [LinkedIn](https://www.linkedin.com/in/andresochoacm/) - Conecta conmigo para contenido sobre tecnología, desarrollo y bases de datos, y descubre cómo puedo aportar a tu equipo.
-- 🎥 [TikTok](https://www.tiktok.com/@ingandresochoa) - Consejos sobre bases de datos, automatización y backend.
+- 🎥 [TikTok](https://www.tiktok.com/@ingandresochoa) - Contenido sobre bases de datos, automatización y desarrollo.
 - 🌐 [YouTube](https://www.youtube.com/@ingandresochoa) - Contenido más profundo sobre programación y data.
 
 ---
