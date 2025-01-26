@@ -1,6 +1,6 @@
 # 👋 Hello! I'm Andrés Ochoa
 
-## Systems Engineer | Desarrollador Backend | Data Nerd 👨🏻‍💻
+## Systems Engineer | Backend Developer | Data Nerd 👨🏻‍💻
 
 ---
 
