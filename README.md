@@ -1,29 +1,29 @@
-# 👋 ¡Hola! Soy Andrés Ochoa
+# 👋 Hello! I'm Andrés Ochoa
 
-## Ingeniero de Sistemas | Desarrollador Backend | Automator & Data Nerd 👨🏻‍💻
-
----
-
-### 👨🏻‍💻 Sobre Mí 
-
-Con **2 años de experiencia en desarrollo y el inigualable mundo de los datos**, mi enfoque se centra en crear soluciones sólidas y escalables. En mi tiempo libre, comparto conocimiento en **LinkedIn** y **TikTok**, donde ayudo a otros a entender la programación, la data y las bases de datos de una manera práctica y accesible.
+## Systems Engineer | Desarrollador Backend | Data Nerd 👨🏻‍💻
 
 ---
 
-### 📢 Encuéntrame en Redes
+### 👨🏻‍💻 About Me
 
-- 💼 [LinkedIn](https://www.linkedin.com/in/andresochoacm/) - Conecta conmigo para contenido sobre tecnología, desarrollo y bases de datos, y descubre cómo puedo aportar a tu equipo.
-- 🎥 [TikTok](https://www.tiktok.com/@ingandresochoa) - Contenido sobre bases de datos, automatización y desarrollo.
-- 🌐 [YouTube](https://www.youtube.com/@ingandresochoa) - Contenido más profundo sobre programación y data.
+With **2 years of development experience and the unrivaled world of data**, my focus is on creating robust and scalable solutions. In my free time, I share knowledge on **LinkedIn** and **TikTok**, where I help others understand programming, data, and databases in a practical and accessible way.
 
 ---
 
-### 📬 ¡Hablemos!
+### 📢 Find me on Social Media
 
-Me apasiona colaborar en proyectos desafiantes y siempre estoy abierto a conectar con colegas del área de IT. Si tienes una oportunidad o una idea interesante, no dudes en contactarme.
-
-[📧 Enviar correo](mailto:tuemail@ejemplo.com)
+- 💼 [LinkedIn](https://www.linkedin.com/in/andresochoacm/) - Connect with me for content on technology, development, and databases, and find out how I can contribute to your team.
+- 🎥 [TikTok](https://www.tiktok.com/@ingandresochoa) - Content on databases, automation, and development.
+- 🌐 [YouTube](https://www.youtube.com/@ingandresochoa) - More in-depth content on programming and data.
 
 ---
 
-¡Gracias por visitar mi perfil de GitHub! 🚀
+### 📬 Let's talk!
+
+I'm passionate about collaborating on challenging projects and I'm always open to connecting with colleagues in the IT field. If you have an opportunity or an interesting idea, don't hesitate to contact me.
+
+[📧 Enviar correo](mailto:ingandressochoaa@gmail.com)
+
+---
+
+Thanks for visiting my GitHub profile!🚀
