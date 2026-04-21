@@ -28,7 +28,6 @@ If you found this profile, you're probably looking for someone who ships, not so
 |---|---|
 | ⚙️ **RPA & Process Automation** | End-to-end bots for financial and enterprise ops. Real deployments, not demos. |
 | 🔗 **Backend & API Integration** | APIs, webhooks, and backend services that connect systems that weren't meant to talk. |
-| 📊 **Data Pipelines** | ETL flows, transformations, and dashboards so data is actually usable. |
 | 🤖 **AI-powered Automations** | LLM integrations and agents that add intelligence to boring workflows. |
 
 ---
