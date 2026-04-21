@@ -1,29 +1,43 @@
-# 👋 Hello! I'm Andrés Ochoa
+# Andrés Ochoa · Automation & Backend Engineer
 
-## Systems Engineer | Backend Developer | Data Nerd 👨🏻‍💻
-
----
-
-### 👨🏻‍💻 About Me
-
-With **2 years of development experience and the unrivaled world of data**, my focus is on creating robust and scalable solutions. In my free time, I share knowledge on **LinkedIn** and **TikTok**, where I help others understand programming, data, and databases in a practical and accessible way.
+📍 Colombia · Building systems that replace manual work · Open to remote
 
 ---
 
-### 📢 Find me on Social Media
+I design and build automation systems, backend pipelines, and data flows that make businesses run faster and smarter. 3+ years working in RPA, process engineering, and backend integration — from enterprise financial systems to AI-powered automations.
 
-- 💼 [LinkedIn](https://www.linkedin.com/in/andresochoacm/) - Connect with me for content on technology, development, and databases, and find out how I can contribute to your team.
-- 🎥 [TikTok](https://www.tiktok.com/@ingandresochoa) - Content on databases, automation, and development.
-- 🌐 [YouTube](https://www.youtube.com/@ingandresochoa) - More in-depth content on programming and data.
+If you found this profile, you're probably looking for someone who ships, not someone who talks about shipping. Let's connect.
 
 ---
 
-### 📬 Let's talk!
+## Stack
 
-I'm passionate about collaborating on challenging projects and I'm always open to connecting with colleagues in the IT field. If you have an opportunity or an interesting idea, don't hesitate to contact me.
-
-[📧 Enviar correo](mailto:ingandressochoaa@gmail.com)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-336791?style=flat&logo=postgresql&logoColor=white)
+![n8n](https://img.shields.io/badge/n8n-EA4B71?style=flat&logo=n8n&logoColor=white)
+![Power Automate](https://img.shields.io/badge/Power_Automate-0066FF?style=flat&logo=microsoft&logoColor=white)
+![Automation Anywhere](https://img.shields.io/badge/Automation_Anywhere-FF6C37?style=flat&logo=automationanywhere&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat&logo=postgresql&logoColor=white)
 
 ---
 
-Thanks for visiting my GitHub profile!🚀
+## What I build
+
+| | |
+|---|---|
+| ⚙️ **RPA & Process Automation** | End-to-end bots for financial and enterprise ops. Real deployments, not demos. |
+| 🔗 **Backend & API Integration** | APIs, webhooks, and backend services that connect systems that weren't meant to talk. |
+| 📊 **Data Pipelines** | ETL flows, transformations, and dashboards so data is actually usable. |
+| 🤖 **AI-powered Automations** | LLM integrations and agents that add intelligence to boring workflows. |
+
+---
+
+## Let's talk
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-andresochoacm-0077B5?style=flat&logo=linkedin)](https://www.linkedin.com/in/andresochoacm/)
+[![TikTok](https://img.shields.io/badge/TikTok-@ingandresochoa-010101?style=flat&logo=tiktok)](https://www.tiktok.com/@ingandresochoa)
+[![Email](https://img.shields.io/badge/Email-ingandressochoaa@gmail.com-D14836?style=flat&logo=gmail&logoColor=white)](mailto:ingandressochoaa@gmail.com)
+
+Available for **remote projects and freelance consulting** in automation, backend, and data.  
+Colombia (GMT-5) · Spanish & English.
