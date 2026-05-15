@@ -4,9 +4,9 @@ Colombia · Building systems that replace manual work
 
 ---
 
-I design and build automation systems, backend pipelines, and data flows that make businesses run faster and smarter. 3+ years working in RPA, process engineering, and backend integration — from enterprise financial systems to AI-powered automations.
+I build automation systems, backend services, and AI-powered workflows that reduce manual operations and improve business efficiency.
 
-If you found this profile, you're probably looking for someone who ships, not someone who talks about shipping. Let's connect.
+Over the last 3+ years, I’ve worked across financial services, enterprise operations, and backend engineering — developing scalable automations, integrating APIs, designing databases, and building systems that connect tools, processes, and data.
 
 ---
 
